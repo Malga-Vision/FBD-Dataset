@@ -6,7 +6,8 @@ Stains are characterized by localized color variations on surfaces, stemming fro
 Cracks manifest as linear disruptions within compact structures, indicating structural vulnerabilities.  
 Spalling refers to the detachment of coating layers, exhibiting forms ranging from diffuse micro-cracking to detachment formation.  
 Vegetation denotes the presence of biological organisms, including herbaceous, shrub, or tree species, capable of impacting both infrastructure and environmental health.  
-Table 1 shows the number of images per class in the training and test sets. Fig. 2 shows an image per class in the FBD dataset.  
+Table 1 shows the number of images per class in the training and test sets. Fig. 1 shows an image per class in the FBD dataset.  
+<div align="center">
 
 | Class | Training set | Test set | Total |
 | :---         |     :---:      |     :---:      |          ---: |
@@ -17,3 +18,9 @@ Table 1 shows the number of images per class in the training and test sets. Fig.
 | Total     | 1272       | 319      | 1591    |
 
 *Table 1: Number of images per class in the FBD dataset*
+
+</div>
+
+![Figure 1: Caption for the figure](/fbd.png)
+*Figure 1: Sample images representing each class in the FBD dataset.*
+
