@@ -6,7 +6,9 @@ The dataset includes a total of 1591 images, each representing potential buildin
 - `Stains are areas with localized color variations on surfaces, often caused by natural materials or foreign substances.`
 - `Cracks appear as linear breaks in solid surfaces, signaling possible structural weaknesses.`
 - `Spalling involves the detachment of surface layers, ranging from small cracks to full detachment.`
-- `Vegetation includes biological growth, such as herbaceous plants, shrubs, or trees, which can affect both structural integrity and environmental health.`
+- `Vegetation includes biological growth, such as herbaceous plants, shrubs, or trees, which can affect both structural integrity and environmental health.  
+
+This dataset has been used in a study to develop a deep learning pipeline focused on the automatic classification of building facade defects. The pipeline employs an ensemble of deep neural networks to improve classification accuracy and robustness across different defect types.
 
 Table 1 shows the number of images per class in the training and test sets.  
 Fig. 1 shows an image per class in the FBD dataset.  
