@@ -2,7 +2,7 @@
 
 The Facade Building Defects (FBD) dataset consists of images of building facades collected from three Italian cities: Genova, Napoli, and Benevento. These images were taken at close range using various devices, such as smartphones and cameras, leading to a range of resolutions and quality levels. To ensure uniformity, all images have been resized to 224x224 pixels, the required input size for each model used in the analysis.  
 
-The dataset includes a total of 1591 images, each representing potential building defects identified through a review of relevant literature [1][2] and labeled by a field expert into four distinct categories: spalling, cracks, stains, and vegetation. 
+The dataset includes a total of 1591 images, each representing potential building defects identified through a review of relevant literature and labeled by a field expert into four distinct categories: spalling, cracks, stains, and vegetation. 
 - `Stains are areas with localized color variations on surfaces, often caused by natural materials or foreign substances.`
 - `Cracks appear as linear breaks in solid surfaces, signaling possible structural weaknesses.`
 - `Spalling involves the detachment of surface layers, ranging from small cracks to full detachment.`
@@ -42,9 +42,7 @@ The dataset has been divided into training and validation sets. The `train-test-
 
 To extract the files correctly, you will need both `train-test-split.zip` and `train-test-split.z01`. Ensure both files are in the same directory before attempting extraction.
 
+<!---
 ### References
-
-[1] S. Y. Harris, Building pathology: deterioration, diagnostics, and intervention. John Wiley & Sons, 2001.  
-[2] M. J. Carretero-Ayuso, C. E. Rodríguez-Jiménez, D. Bienvenido-Huertas, and J. J. Moyano, ‘‘Interrelations between the types of damages and their original causes in the envelope of buildings,’’ Journal of Building Engineering, vol. 39, p. 102235, 2021.
-
+-->
 
