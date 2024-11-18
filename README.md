@@ -42,7 +42,15 @@ The dataset has been divided into training and validation sets. The `train-test-
 
 To extract the files correctly, you will need both `train-test-split.zip` and `train-test-split.z01`. Ensure both files are in the same directory before attempting extraction.
 
-<!---
-### References
--->
+### Citing this work
 
+Please cite the following paper when using the FBD dataset:
+```
+@article{interlando2024ensembles,
+  title={Ensembles of deep neural networks for the automatic detection of building facade defects from images},
+  author={Interlando, Matteo and Pacifico, Maria Giovanna and Novellino, Antonio and Pastore, Vito Paolo},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+}
+```
