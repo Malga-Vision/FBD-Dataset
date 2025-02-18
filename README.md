@@ -46,11 +46,15 @@ To extract the files correctly, you will need both `train-test-split.zip` and `t
 
 Please cite the following paper when using the FBD dataset:
 ```
-@article{interlando2024ensembles,
-  title={Ensembles of deep neural networks for the automatic detection of building facade defects from images},
+@ARTICLE{10747365,
   author={Interlando, Matteo and Pacifico, Maria Giovanna and Novellino, Antonio and Pastore, Vito Paolo},
-  journal={IEEE Access},
+  journal={IEEE Access}, 
+  title={Ensembles of Deep Neural Networks for the Automatic Detection of Building Facade Defects From Images}, 
   year={2024},
-  publisher={IEEE}
-}
+  volume={12},
+  number={},
+  pages={164953-164965},
+  keywords={Buildings;Accuracy;Feature extraction;Training;Peer-to-peer computing;Inspection;Benchmark testing;Visualization;Transformers;Maintenance engineering;Monitoring;Defect detection;Classification algorithms;Artificial neural networks;Deep learning;Building monitoring;building facade defects classification;ensemble of deep neural networks;vision transformers;deep learning},
+  doi={10.1109/ACCESS.2024.3494550}}
+
 ```
