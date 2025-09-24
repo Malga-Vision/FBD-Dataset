@@ -41,6 +41,12 @@ The dataset has been divided into training and validation sets. The `train-test-
 ### Extraction Instructions
 
 To extract the files correctly, you will need both `train-test-split.zip` and `train-test-split.z01`. Ensure both files are in the same directory before attempting extraction.
+The standard `unzip` utility does **not** support multi-part archives, so you need to use **7-Zip**.
+```
+sudo apt-get install p7zip-full
+7z x train-test-split.zip
+```
+
 
 ### Code Availability
 
