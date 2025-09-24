@@ -42,6 +42,17 @@ The dataset has been divided into training and validation sets. The `train-test-
 
 To extract the files correctly, you will need both `train-test-split.zip` and `train-test-split.z01`. Ensure both files are in the same directory before attempting extraction.
 
+### Code Availability
+
+The implementation of the deep learning pipeline described in our paper,  
+[Ensembles of Deep Neural Networks for the Automatic Detection of Building Facade Defects From Images](https://ieeexplore.ieee.org/document/10747365),  
+is available at the following repository:  
+
+👉 [FBD Pipeline Code](https://github.com/Malga-Vision/Ensembles-of-deep-neural-networks-for-the-automatic-detection-of-building-facade-defects-from-images)
+
+This includes scripts for data preprocessing, model training, evaluation, and ensemble inference.
+
+
 ### Citing this work
 
 Please cite the following paper when using the FBD dataset:
